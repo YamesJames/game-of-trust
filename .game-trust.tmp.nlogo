@@ -91,12 +91,12 @@ to-report get-country-trust-level
   if country = "Malaysia" [ set base-level 8.53846 ]
   if country = "Mexico" [ set base-level 12.4062 ]
   if country = "Netherlands" [ set base-level 66.1757 ]
-  if country = "New Zealand" [ set base-level 56.22733 ]
+  if country = "New" [ set base-level 56.22733 ]
   if country = "Pakistan" [ set base-level 23.54949 ]
   if country = "Philippines" [ set base-level 2.83333 ]
   if country = "Russia" [ set base-level 27.73516 ]
-  if country = "South Africa" [ set base-level	23.50609 ]
-  if country = "United States" [ set base-level 38.17277 ]
+  if country = "South" [ set base-level Africa	23.50609 ]
+  if country = "United" [ set base-level States	38.17277 ]
   if country = "Zimbabwe" [ set base-level 7.2 ]
   report base-level
 end
@@ -202,7 +202,7 @@ CHOOSER
 121
 Country
 Country
-"Select" "Argentina" "Australia" "Bahrain" "Brazil" "Chile" "China" "Colombia" "Egypt" "Estonia" "Germany" "Ghana" "India" "Japan" "Mexico" "Netherlands" "New Zealand" "Nigeria" "Pakistan" "Philippines" "Poland" "Russia" "Singapore" "South Africa" "South Korea" "Spain" "Sweden" "Taiwan" "Thailand" "United States" "Uruguay" "Zimbabwe"
+"Argentina" "Australia" "Bahrain" "Brazil" "Chile" "China" "Colombia" "Egypt" "Estonia" "Germany" "Ghana" "India" "Japan" "Mexico" "Netherlands" "New Zealand" "Nigeria" "Pakistan" "Philippines" "Poland" "Russia" "Singapore" "South Africa" "South Korea" "Spain" "Sweden" "Taiwan" "Thailand" "United States" "Uruguay" "Zimbabwe"
 6
 
 BUTTON
@@ -248,7 +248,7 @@ Bad-seed-probability
 Bad-seed-probability
 0
 1.0
-0.1
+0.0
 0.05
 1
 NIL

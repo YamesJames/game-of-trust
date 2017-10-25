@@ -1,8 +1,8 @@
 With agent based modeling you can show -among other things- how a complex system behaves in a simple way.
-I think that a simple problem -(with deep consequences)[https://ourworldindata.org/trust#correlates-determinants-and-consequences]- 
+I think that a simple problem -[with deep consequences https://ourworldindata.org/trust#correlates-determinants-and-consequences]- 
 that can be easily overtaken is the lack of trust, let's explore what could happen to a country's level of trust if we play 
 with a couple of variables using Netlogo (if you want a simple intro about Netlogo please check I,II). 
-The code is available at (github)[https://github.com/nickmancol/game-of-trust]
+The code is available at [github https://github.com/nickmancol/game-of-trust]
  
 UI
 
